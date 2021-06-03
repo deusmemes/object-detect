@@ -1,0 +1,10 @@
+.option {
+  margin-bottom: 3em;
+
+  & label {
+    margin-bottom: 1em;
+    margin-left: 1em;
+    //display: block;
+    line-height: 3em;
+  }
+}
